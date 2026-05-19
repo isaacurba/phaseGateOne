@@ -38,8 +38,3 @@ while attempt <= 5:
             attempt+=1
             
     else: print("Better luck")
-            
-            
-        
-   
-        
