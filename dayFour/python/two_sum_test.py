@@ -8,7 +8,7 @@ class TestToChecKTwoSumLogic(TestCase):
         target = 6
         expected = [8, -2]
         actual = targeting_sum(arr, target)
-        self.assertEqual(expected, actual) # Safer than assertEqual
+        self.assertEqual(expected, actual)
         
     def test_to_check_sum_of_another_two_numbers_in_array_get_the_target(self):
         arr = [1, 2, 5, 7, 6, 8, 9]
