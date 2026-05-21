@@ -1,0 +1,2 @@
+const { targettingSum } = require("./javaScript")
+

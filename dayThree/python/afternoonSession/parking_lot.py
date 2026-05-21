@@ -25,4 +25,25 @@ def slot():
 
 
 
-
+def option():
+    print("1. enter carping slot for where you want to park.")
+    print("2. enter number you want to remove parking slot.")
+    print("2. enter number you want to remove parking slot.")    
+active = True
+    
+while active:
+    number = int(input(option()))
+    park(number)
+    slot()
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
